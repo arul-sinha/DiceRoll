@@ -12,12 +12,4 @@ This is a simple cross platform dice rolling app with:
 3. test the app on an emulator
 4. run `flutter build apk --release` and find the output in `build/app/outputs/flutter-apk/app-release.apk` 
 
-
-
- 
-  
-
-
-
-   
 Colors inspired by the beloved Catppuccin Mocha Theme ☕. 
