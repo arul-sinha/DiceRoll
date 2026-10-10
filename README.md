@@ -1,17 +1,23 @@
-# diceroll
+# Diceroll
 
-A new Flutter project.
+This is a simple cross platform dice rolling app with:
+- **0 ads**
+- **0 bloat**
+- **0 telemetry**
+  
 
-## Getting Started
+# Compiling and Running:
+1. clone the repo
+2. setup flutter and dart
+3. test the app on an emulator
+4. run `flutter build apk --release` and find the output in `build/app/outputs/flutter-apk/app-release.apk` 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+ 
+  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+   
+Colors inspired by the beloved Catppuccin Mocha Theme ☕. 
